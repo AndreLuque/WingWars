@@ -64,7 +64,7 @@
 	.text-2{font-size: 35px}
 	.discord-button{height: 70px; width: 50%; font-size: 25px}
 }
-@media only screen and (max-width: 750px) {
+@media only screen and (max-width: 760px) {
 	.discord-button{width: 70%}
 	.image{width: 432px; height: 245px; margin: auto; margin-top: 80px}
 	.text-1{margin-top: -150px}
