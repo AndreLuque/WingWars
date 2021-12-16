@@ -1,2 +1,2 @@
-#WingWars
+**#WingWars**
 NFT Collection Website
